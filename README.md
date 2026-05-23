@@ -16,7 +16,7 @@ Using
 
 Contact Info
 
-Personal Contacts
+**Personal Contacts**
 
 Gmail: xeancoelabad@gmail.com
 
@@ -27,7 +27,7 @@ Tiktok: @xoprobro
 Youtube: xoprobro
 
 
-Business Contacts
+**Business Contacts**
 
 Gmail: abadvideography@gmail.com
 
