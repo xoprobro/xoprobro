@@ -19,16 +19,22 @@ Contact Info
 Personal Contacts
 
 Gmail: xeancoelabad@gmail.com
+
 Instagram: @xprotography
+
 Tiktok: @xoprobro
+
 Youtube: xoprobro
 
 
 Business Contacts
 
 Gmail: abadvideography@gmail.com
+
 Instagram: @abadvideography
+
 Tiktok: @abadvideography
+
 Github: abadvideography
 
 <!--
