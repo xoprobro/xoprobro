@@ -4,7 +4,7 @@ I am a **game programmer** in Unity and a **videographer** trying to build my bu
 
 ---
 
-Using
+Currently Using
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="50" height="50" style="filter: brightness(1.5);"/>
