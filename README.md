@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello I'm xoprobro 😊
+
+Currently a **game programmer** and **videographer** trying to build my business and make my game ideas come to life
+
+
 
 <!--
 **xoprobro/xoprobro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
