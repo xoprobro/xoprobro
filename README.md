@@ -26,6 +26,8 @@ Tiktok: @xoprobro
 
 Youtube: xoprobro
 
+--- 
+I'm still experementing with websites you dont have to check these 
 
 **Business Contacts**
 
